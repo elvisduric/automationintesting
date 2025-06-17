@@ -21,5 +21,3 @@ Feature: Booking Page Elements
   Scenario: Verify booking page loads correctly
     Then the page title should contain booking information
     And the current URL should contain "booking"
-
-  git branch -M master
